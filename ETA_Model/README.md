@@ -82,33 +82,6 @@ The dataset `historical_data.csv` includes a subset of DoorDash deliveries from 
 ## Files Included
 
 1. `historical_data.csv`: Dataset for the analysis and modeling.
-2. `ANJANA_P.ipynb`: Jupyter Notebook containing data preprocessing, EDA, modeling, and evaluation.
+2. `XGB Regressor.ipynb`: Jupyter Notebook containing data preprocessing, EDA, modeling, and evaluation.
 3. `README.md`: Project documentation.
 
-## How to Run the Notebook
-
-1. Install the required Python packages:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Open the notebook using Jupyter:  
-   ```bash
-   jupyter notebook ANJANA_P.ipynb
-   ```
-3. Run all cells sequentially to reproduce the results.
-
-## Future Work
-
-- Incorporate real-time data streams for continuous model training.
-- Explore deep learning approaches for more complex patterns.
-- Test the model in production to assess performance in real-world scenarios.
-
-## Contact
-
-For queries or collaboration, please reach out:  
-**Name**: Anjana P.  
-**Email**: anjanapjayapal@gmail.com  
-**LinkedIn**: [Anjana P.](https://linkedin.com/in/anjanapjayapal)  
-**GitHub**: [github.com/anjanapjayapal](https://github.com/anjanapjayapal)
-
---- 
